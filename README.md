@@ -29,8 +29,7 @@ Editar
 pip install SpeechRecognition playsound unidecode
 📁 Estrutura do Projeto
 arduino
-Copiar
-Editar
+
 ├── comandos/
 │   ├── cotacao_moedas.py
 │   ├── noticias.py
@@ -43,6 +42,7 @@ Editar
 ├── cria_audios.py
 ├── main.py (ou nome do arquivo principal)
 └── README.md
+
 ▶️ Como Executar
 Verifique se os módulos estão instalados.
 
@@ -51,9 +51,9 @@ Certifique-se de que seu microfone está funcionando.
 Execute o script:
 
 bash
-Copiar
-Editar
+
 python main.py
+
 Diga a palavra mágica: rose, seguida de um comando, por exemplo:
 
 “rose, qual o valor do dólar?”
